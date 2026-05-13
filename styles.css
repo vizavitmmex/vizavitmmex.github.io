@@ -280,11 +280,6 @@ section { padding: 5rem 2rem; }
 .badge-play { background: #000; color: #fff; border-color: #000; }
 .badge-ios  { background: #fff; color: #000; border-color: #000; }
 
-.badge-ios.soon {
-  opacity: 0.45;
-  cursor: default;
-  pointer-events: none;
-}
 
 .badge svg { flex-shrink: 0; }
 
